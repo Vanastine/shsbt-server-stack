@@ -3,7 +3,7 @@
 - IDRAC - 172.17.26.x/19
 - hypervisor - 172.17.25.x/19
 - default Gateway - 172.17.0.1
-- s Server - 172.17.0.51
+- DNS Server - 172.17.0.51
 
 1. Server - Doug
 2. Server - Matt (32gb)
