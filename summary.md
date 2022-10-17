@@ -5,7 +5,7 @@
 - default Gateway - 172.17.0.1
 - DNS Server - 172.17.0.51
 
-1. Server - Doug
+1. Server - Doug (36gb)
 2. Server - Matt (32gb)
 3. server - Mark (4gb) -unused
 4. Server - Mitch (48gb)
