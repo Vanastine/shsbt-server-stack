@@ -13,6 +13,8 @@
 6. Server - Ty (48gb) -vCenter VM
 
 ## Tasks Completed 
-- Initial Setup
+- Initial Setup - COmplete this on your own
+- Simple CHange log - datetime and what you changed (from the original state to the new state) and who did it
 
 ## Improvements 
+  - Complete this on your own
