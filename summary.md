@@ -4,6 +4,7 @@
 - hypervisor - 172.17.25.x/19
 - default Gateway - 172.17.0.1
 - DNS Server - 172.17.0.51
+- Vmotion - 172.17.x.x
 
 1. Server - Doug (36gb)
 2. Server - Matt (32gb)
